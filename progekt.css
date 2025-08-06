@@ -1,0 +1,138 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=Bebas+Neue&family=Bokor&family=Comfortaa:wght@300..700&family=Dancing+Script:wght@400..700&family=Jaro:opsz@6..72&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lacquer&family=M+PLUS+Rounded+1c&family=Major+Mono+Display&family=Noto+Sans+PhagsPa&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@1,900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Vinyl&family=Space+Grotesk:wght@300..700&family=Special+Gothic&family=Varela+Round&display=swap');
+
+
+body{
+    background-image: url(https://kartinki.pics/pics/uploads/posts/2022-08/1659713827_1-kartinkin-net-p-sero-chernaya-abstraktsiya-krasivo-1.png);
+    background-color: rgb(12, 13, 16);
+    color: white;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.imggo{
+    display: flex;
+    border-radius: 55px;
+    width: 45px;
+    height: 45px;
+    margin-top: 35px;
+    margin-left: 65px;
+}
+
+input{
+    border-radius: 25px;
+    text-align: start;
+    margin-top: 35px;
+    margin-bottom: 70px;
+    margin-left: 16%;
+    padding: 10px;
+    padding-right: 200px;
+}
+#button{
+    border-radius: 50px;
+    margin-top: 35px;
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+}
+#h_1{
+    font-size: 320%;
+    margin-left: 30px;
+}
+#div2{
+    box-shadow: gray 0px 4px 4px 1px;
+    margin-left: 83%;
+    margin-right: 20px;
+    padding: 20px;
+   
+}
+#p1{
+
+    font-size: 20px;
+}
+h2{
+    display: flex;
+    margin-top: 2px;
+    font-size: 38px;
+    margin-left: 0px;
+    margin-right: 90px;
+    margin-bottom: 0px;
+}
+
+#img{
+    width: 12px;
+    height: 12px;
+}
+header{
+    display: flex;
+    text-align: center;
+}
+#p{
+    font-size: 25px;
+    margin-left: 45px;
+    
+}
+
+
+#div-3{
+        width: 550px;
+    gap: 20px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    opacity: 67%;
+
+    
+    /* display: flex; */
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 25px;
+    /* margin-right: 45px; */
+    margin-left: 26%;
+    padding: 29px;
+}
+#dat{
+    display: flex;
+    margin-bottom: 0px;
+    margin-top: 2px;
+
+    /* margin-top: 1px;
+    margin-bottom: 2px; */
+    
+    /* text-align: end; */
+
+}
+/* #div-4{
+
+    display: flex;
+    background-color: rgb(47, 47, 47);
+    color: rgb(255, 255, 255);  
+    border-radius: 25px;
+    width: 120px;
+    height: 250px;
+    margin-left: 56px;
+    
+} */
+
+main{
+    display: flex;
+    /* width: 600px; */
+    /* gap: 50px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr); */
+}
+
+
+.im{
+    display: flex;
+    width: 280px;
+    height: 280px;
+    border-radius: 25px;
+    margin-left: 84px;
+}
+
+#img2{
+    width: 80px;
+    height: 80px;
+}
